@@ -29,7 +29,7 @@ To run the tests, run
 make tests
 ```
 
-## Making requests
+## Making requests
 
 Examples:
 ```
